@@ -7,4 +7,6 @@ The project aims to find recommended anime by content based filtering. I am hand
 1. Data Preparation
 2. Data Cleaning
 3. Feature Engineering
-5. Cosine Similarity
+4. Cosine Similarity
+
+![AR](Untitled-1.jpg)
